@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonytronics
-- 👀 I’m interested in ... Automation (HP Operations Orchestration, Ansible)
+- 👀 I’m interested in ... Automation (Ansible, HP Operations Orchestration)
 - 🌱 I’m currently learning ... ServiceNow and Amazon AWS
 - 💞️ I’m looking to collaborate on ... Open Source Perl or Python projects
 - 📫 How to reach me ... email me Anthony.Okusanya@gmail.com
