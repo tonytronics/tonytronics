@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @tonytronics
-- 👀 I’m interested in ... Automation (Ansible, HP Operations Orchestration)
-- 🌱 I’m currently learning ... ServiceNow and Amazon AWS
+- 👀 I’m interested in ... Automation using Ansible, Perl, Pythonn etc
+- 🌱 I’m currently learning ... Python web development
 - 💞️ I’m looking to collaborate on ... Open Source Perl or Python projects
 - 📫 How to reach me ... email me Anthony.Okusanya@gmail.com
-- Experienced in .. Perl, Python, Powershell, Ansible, HPOO, Javascript
+- Experienced in .. Perl/Catalyst, Python, Powershell, Ansible, HPOO, Javascript
 
 <!---
 tonytronics/tonytronics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
